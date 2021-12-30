@@ -2,6 +2,7 @@
 I'm 16 years old and I have ASD (Autism Spectrum Disorder)
 
 <h2 align="left">My journey in coding.</h2>
-I started my journey on coding on **July 2020 with Python**<br/><br/>
-and on **December 2021 i learned how to code on Lua Script** on Roblox<br/>
-also check [my game](https://www.roblox.com/games/6963570853/Fast-Pacing-Killing) on Roblox ;)<br/><br/>
+I started my journey on coding on July 2020 with Python<br/><br/>
+and on December 2021 I learned how to code on Lua Script on Roblox<br/>
+also, do you want to play my game? here's the link to it:<br/>
+https://www.roblox.com/games/6963570853/Fast-Pacing-Killing<br/><br/>
