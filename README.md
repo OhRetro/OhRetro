@@ -1,4 +1,4 @@
-<h1 align="left">Hello , I'm OhRetro</h1>
+<h1 align="left">Hello, I'm OhRetro</h1>
 I'm 16 years old and I have ASD (Autism Spectrum Disorder)
 
 <h2 align="left">My journey in coding.</h2>
