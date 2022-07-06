@@ -1,12 +1,9 @@
-<h1 align="center">Hello, I'm oreto</h1>
-
-<p align="center">
+# Hello, I'm OhRetro 
+##### (oreto for short)
 I'm 16 years old and I have ASD (Autism Spectrum Disorder)
-</p>
 
-<h2 align="center">My journey in coding.</h2>
+## My journey in coding.
 
-<p align="center">
-July 2020: Python <br/>
-December 2021: Lua Script on Roblox <br/>
-</p>
+- July 2020: Python 
+- December 2021: Lua Script on Roblox 
+- July 2022: C, C++, C#
