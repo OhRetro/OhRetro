@@ -6,4 +6,6 @@ I'm 16 years old and I have ASD (Autism Spectrum Disorder)
 
 - July 2020: Python 
 - December 2021: Lua Script on Roblox 
-- July 2022: C, C++, C#
+- July 2022: C#
+
+Languages I tried but won't bother with: C, C++, Ruby
