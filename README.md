@@ -1,6 +1,6 @@
 # Hello, I'm OhRetro 
 ##### (oreto for short)
-I'm 16 years old and I have ASD (Autism Spectrum Disorder)
+I'm 17 years old
 
 ## My journey in coding.
 
