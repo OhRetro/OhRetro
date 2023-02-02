@@ -7,7 +7,7 @@ I'm 17 years old
 - July 2020: Python 
 - December 2021: Lua Script on Roblox 
 - July 2022: C#
-- Somewhere in 2022: A little bit of Java/Kotlin
+- Somewhere in 2022: A little bit of Java/Kotlin, HTML, JavaScript
 
 Languages I tried but won't bother with: C, C++, Ruby
 
