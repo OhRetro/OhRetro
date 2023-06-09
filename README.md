@@ -1,14 +1,32 @@
-# Hello, I'm OhRetro 
-##### (oreto for short)
-I'm 17 years old
+# Hi there, I'm OhRetro! 👋
+##### (or just Oreto for short)
 
-## My journey in coding.
+Welcome to my coding journey!
 
-- July 2020: Python 
-- December 2021: Lua Script on Roblox 
-- July 2022: C#
-- Somewhere in 2022: A little bit of Java/Kotlin, HTML, JavaScript
+ I'm a 17-year-old programmer, eager to learn and explore the world of software development.
 
-Languages I tried but won't bother with: C, C++, Ruby
+## My Coding Timeline 📆
 
-[![OhRetro's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhRetro)](https://github.com/anuraghazra/github-readme-stats)
+- July 2020: 🐍 Python
+- December 2021: 🌐 Lua Script on Roblox
+- July 2022: 🌟 C#
+- August 2022: 🌐 HTML, JavaScript, CSS
+
+### Programming Languages I have experience with:
+
+- Python 🐍
+- Lua Script 🌐
+- C# 🌟
+- HTML 🌐
+- JavaScript 🌐
+- CSS 🌐
+
+### Programming Languages I'm not quite there yet:
+
+- C
+- C++
+- Ruby
+
+### My GitHub Stats 📊
+
+[![OhRetro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OhRetro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
