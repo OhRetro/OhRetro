@@ -1,31 +1,17 @@
 # Hi there, I'm OhRetro! 👋
-##### (or just Oreto for short)
+Welcome to my profile!
+I'm a 18-year-old programmer, eager to learn and explore the world of software development.
 
-Welcome to my coding journey!
+### Programming Languages/Tools I have experience with:
 
- I'm a 17-year-old programmer, eager to learn and explore the world of software development.
-
-## My Coding Timeline 📆
-
-- July 2020: 🐍 Python
-- December 2021: 🌐 Lua Script on Roblox
-- July 2022: 🌟 C#
-- August 2022: 🌐 HTML, JavaScript, CSS
-
-### Programming Languages I have experience with:
-
-- Python 🐍
-- Lua Script 🌐
-- C# 🌟
-- HTML 🌐
-- JavaScript 🌐
-- CSS 🌐
-
-### Programming Languages I'm not quite there yet:
-
-- C
-- C++
-- Ruby
+- Python 
+- Lua Script
+- C#
+- HTML
+- JavaScript/TypeScript
+- CSS
+- MySQL
+- GameMaker Studio 2 & GML (GameMaker Language)
 
 ### My GitHub Stats 📊
 
