@@ -7,9 +7,10 @@ I'm a 18-year-old programmer, eager to learn and explore the world of software d
 - Python 
 - Lua Script
 - C#
-- HTML
 - JavaScript/TypeScript
-- CSS
+- HTML, CSS
+- Nextjs
+- React
 - MySQL
 - GameMaker Studio 2 & GML (GameMaker Language)
 
