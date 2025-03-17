@@ -1,6 +1,6 @@
 # Hi there, I'm OhRetro! 👋
 Welcome to my profile!
-I'm a 18-year-old programmer, eager to learn and explore the world of software development.
+I'm a 19-year-old programmer, eager to learn and explore the world of software development.
 
 ### Programming Languages/Tools I have experience with:
 
