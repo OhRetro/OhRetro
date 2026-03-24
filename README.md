@@ -4,6 +4,8 @@ I'm a 20-year-old software developer, eager to learn and explore the world of so
 
 ### Programming Languages/Tools I have experience with:
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OhRetro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 - Python 
 - Lua
 - C#
