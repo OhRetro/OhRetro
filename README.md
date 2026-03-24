@@ -1,11 +1,11 @@
-# Hi there, I'm OhRetro! 👋
+# Hi there, I'm ohretro! 👋
 Welcome to my profile!
-I'm a 19-year-old programmer, eager to learn and explore the world of software development.
+I'm a 20-year-old software developer, eager to learn and explore the world of software development.
 
 ### Programming Languages/Tools I have experience with:
 
 - Python 
-- Lua Script
+- Lua
 - C#
 - JavaScript/TypeScript
 - HTML, CSS
@@ -16,4 +16,4 @@ I'm a 19-year-old programmer, eager to learn and explore the world of software d
 
 ### My GitHub Stats 📊
 
-[![OhRetro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OhRetro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![OhRetro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OhRetro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
